@@ -2,7 +2,7 @@
 
 Example GitHub.io portfolio website
 
-## Sub-Heading
+## Greetings! ![alt text](image.png)
 
 -Bullet 1
 -Bullet 2
