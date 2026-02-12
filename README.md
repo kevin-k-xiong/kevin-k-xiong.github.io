@@ -1,4 +1,5 @@
-# Greetings! My Name is Kevin and Welcome to My Page!
+# Welcome to My Page!
+-I'm Kevin Xiong!
 
 ## Current Education
 - Undergraduate Computer Science Student at University of Wisconsin Eau Claire.
