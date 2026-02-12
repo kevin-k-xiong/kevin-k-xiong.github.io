@@ -1,13 +1,13 @@
-# kevin-k-xiong.github.io
+# 
 
-Example GitHub.io portfolio website
 
-## Greetings!
+## Current Education
+- Undergraduate Compuser Science Student at University of Eau Claire Wisconsin.
+-
 
--Bullet 1
--Bullet 2
 
-## Links
+
+## Links to My Other Pages.
 
 Projects Page
 
