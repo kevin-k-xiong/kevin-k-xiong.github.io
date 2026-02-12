@@ -1,14 +1,20 @@
-# kevin-k-xiong.github.io
+# Welcome to My Page!
 
-Example GitHub.io portfolio website
+-I'm Kevin Xiong!
 
-## Greetings! ![alt text](image.png)
+## Current Education
 
--Bullet 1
--Bullet 2
+- Undergraduate Computer Science Student at University of Wisconsin Eau Claire.
 
-## Links
+## Enrolled Classes
 
-Projects Page
+- Math 114 Calculus I (9:00 A.M - 9:50 A.M)
+- CS150 Object-Oreiented Programming (11:00 A.M - 11:50 A.M)
+- Geol 102 Oceanography (12:00 P.M - 12:50 P.M)
+- CS262 Databade Systems (1:00 P.M - 2:15 P.M)
+
+## Links to My Other Pages.
+
+Projects Page: [My Projects](ProjectsPage.md)
 
 Future Work
