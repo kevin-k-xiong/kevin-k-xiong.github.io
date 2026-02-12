@@ -2,7 +2,7 @@
 
 
 ## Current Education
-- Undergraduate Compuser Science Student at University of Eau Claire Wisconsin.
+- Undergraduate Compuser Science Student at University of Wisconsin Eau Claire.
 -
 
 
