@@ -15,6 +15,6 @@
 
 ## Links to My Other Pages.
 
-Projects Page: [My Projects](ProjectsPage.md)
+[My Projects](ProjectsPage.md)
 
 Future Work
