@@ -1,5 +1,4 @@
-# Greetings! My name is Kevin!
-
+# Greetings WElcome to My Page!
 
 ## Current Education
 - Undergraduate Computer Science Student at University of Wisconsin Eau Claire.
