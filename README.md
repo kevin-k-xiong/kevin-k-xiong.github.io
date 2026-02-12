@@ -2,7 +2,7 @@
 
 Example GitHub.io portfolio website
 
-## Greetings! ![alt text](image.png)
+## Greetings!
 
 -Bullet 1
 -Bullet 2
