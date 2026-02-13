@@ -1,6 +1,4 @@
 <p align="right">
-  This text will be right-aligned.
+  This text will be right-aligned.         Lol
 </p>
-<p align = "right">
-This will should also be right-aligned.
-</p>
+
