@@ -17,4 +17,4 @@
 
 [My Projects](ProjectsPage.md)
 
-[Future Work](FutureWorks.md)
+[Future Work](FutureWork.md)
