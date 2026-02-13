@@ -7,6 +7,7 @@
 ## Recent Project(s)
 
 - [Data Structures and Built-Ins](https://github.com/kevin-k-xiong/CS150HW/tree/main/Assignment01/src)
+- [Mandelbrot Creation](https://github.com/tshajlij-lee/mandelbrot-cs150.git)
 
 ## Past Project(s)
 
