@@ -1,6 +1,7 @@
-# Welcome to My Page!
+# Hello! Im Kevin Xiong.
 
--I'm Kevin Xiong!
+## Background
+Hi. I was born and raised in the U.S
 
 ## Current Education
 
