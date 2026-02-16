@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Kevin Xiong</title>
+    <title>Kevin's Website</title>
     <link rel="stylesheet" href="Stylesheet.css" />
 </head>
 <body>
