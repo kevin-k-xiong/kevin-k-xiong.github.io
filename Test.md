@@ -1,12 +1,11 @@
 # Hello! I'm Kevin Xiong.
 
-<div class="links-dropdown" align="right">
-  <span class="links-tab">Links</span>
-  <div class="links-menu">
-    <a href="ProjectsPage.md">My Projects</a><br />
-    <a href="FutureWork.md">Future Work</a>
-  </div>
-</div>
+<details>
+  <summary>Links</summary>
+
+[My Projects](ProjectsPage.md) | [Future Work](FutureWork.md)
+
+</details>
 
 ## Background
 
