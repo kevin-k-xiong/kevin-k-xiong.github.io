@@ -1,14 +1,21 @@
-# Welcome to My Projects Page!
-
-## Current Project(s)
+# Current Project(s)
 
 - [Creating/Setting up GitHub Profile Page](README.md)
 
-## Recent Project(s)
+# Upcoming Project(s)
+
+- Project A
+- HW 3
+
+# Recent Project(s)
 
 - [Data Structures and Built-Ins](https://github.com/kevin-k-xiong/CS150HW/tree/main/Assignment01/src)
 - [Mandelbrot Creation](https://github.com/tshajlij-lee/mandelbrot-cs150.git)
 
-## Past Project(s)
+# Past Project(s)
 
 - [Review](https://github.com/kevin-k-xiong/CS150HW/tree/main/Assignment0/src)
+
+## Navigation
+
+[Home](README.md)
