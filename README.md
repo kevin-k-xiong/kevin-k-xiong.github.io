@@ -2,7 +2,7 @@
 
 ## Background
 
-Hi. I was born and raised in the U.S
+Hi. I was born and raised in the U.S. I am currently a first year majoring in Computer Science.
 
 ## Skills
 
