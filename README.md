@@ -2,7 +2,7 @@
 
 ## Background
 
-Hi. I was born and raised in the U.S. I am currently a first year majoring in Computer Science.
+Hi. I was born and raised in the U.S
 
 ## Skills
 
@@ -20,6 +20,6 @@ Hi. I was born and raised in the U.S. I am currently a first year majoring in Co
 - Geol 102 Oceanography (12:00 P.M - 12:50 P.M)
 - CS262 Database Systems (1:00 P.M - 2:15 P.M)
 
-## Nagivation
+## Navigation.
 
-[My Projects](ProjectsPage.md) | [Future Work](FutureWork.md)
+[My Projects](ProjectsPage.md)
