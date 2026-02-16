@@ -25,6 +25,12 @@ Hi. I was born and raised in the U.S
 - Geol 102 Oceanography (12:00 P.M - 12:50 P.M)
 - CS262 Database Systems (1:00 P.M - 2:15 P.M)
 
+<<<<<<< HEAD
 ## Navigation
 
 [My Projects](ProjectsPage.html) | [Future Work](FutureWork.html)
+=======
+## Nagivation
+
+[My Projects](ProjectsPage.md) | [Future Work](FutureWork.md)
+>>>>>>> 46c79e71a82d7d714eb960dc0c20859adcda8e1a
