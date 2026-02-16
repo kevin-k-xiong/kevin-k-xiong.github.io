@@ -1,25 +1,39 @@
-# Hello! I'm Kevin Xiong.
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kevin Xiong</title>
+    <link rel="stylesheet" href="Stylesheet.css" />
+</head>
+<body>
+    <main>
+        <h1>Hello! I'm Kevin Xiong.</h1>
 
+        <h2>Background</h2>
+        <p>Hi. I was born and raised in the U.S</p>
 
-## Background
+        <h2>Skills</h2>
+        <ul>
+            <li>Java</li>
+            <li>MySQL</li>
+        </ul>
 
-Hi. I was born and raised in the U.S
+        <h2>Current Education</h2>
+        <ul>
+            <li>Undergraduate Computer Science Student at University of Wisconsin Eau Claire.</li>
+        </ul>
 
-## Skills
+        <h2>Enrolled Classes</h2>
+        <ul>
+            <li>Math 114 Calculus I (9:00 A.M - 9:50 A.M)</li>
+            <li>CS150 Object-Oriented Programming (11:00 A.M - 11:50 A.M)</li>
+            <li>Geol 102 Oceanography (12:00 P.M - 12:50 P.M)</li>
+            <li>CS262 Database Systems (1:00 P.M - 2:15 P.M)</li>
+        </ul>
 
-- Java
-- MySQL
-
-## Current Education
-
-- Undergraduate Computer Science Student at University of Wisconsin Eau Claire.
-
-## Enrolled Classes
-
-- Math 114 Calculus I (9:00 A.M - 9:50 A.M)
-- CS150 Object-Oreiented Programming (11:00 A.M - 11:50 A.M)
-- Geol 102 Oceanography (12:00 P.M - 12:50 P.M)
-- CS262 Database Systems (1:00 P.M - 2:15 P.M)
-
-## Nagivation
-[My Projects](ProjectsPage.md) | [Future Work](FutureWork.md)
+        <h2>Navigation</h2>
+        <p><a href="ProjectsPage.md">My Projects</a> | <a href="FutureWork.md">Future Work</a></p>
+    </main>
+</body>
+</html>
