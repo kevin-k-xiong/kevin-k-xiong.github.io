@@ -1,8 +1,13 @@
+﻿---
+layout: default
+title: Projects
+---
+
 # Welcome to My Projects Page!
 
 ## Current Project(s)
 
-- [Creating/Setting up GitHub Profile Page](README.md)
+- [Creating/Setting up GitHub Profile Page](README.html)
 
 ## Recent Project(s)
 
@@ -12,3 +17,6 @@
 ## Past Project(s)
 
 - [Review](https://github.com/kevin-k-xiong/CS150HW/tree/main/Assignment0/src)
+
+[Home](index.html)
+

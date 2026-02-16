@@ -1,6 +1,5 @@
 # Hello! I'm Kevin Xiong.
 
-
 ## Background
 
 Hi. I was born and raised in the U.S
@@ -22,4 +21,5 @@ Hi. I was born and raised in the U.S
 - CS262 Database Systems (1:00 P.M - 2:15 P.M)
 
 ## Nagivation
+
 [My Projects](ProjectsPage.md) | [Future Work](FutureWork.md)

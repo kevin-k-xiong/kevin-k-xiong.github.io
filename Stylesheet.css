@@ -1,17 +1,17 @@
-.links-dropdown {
-    position: relative;
-    display: inline-block;
+﻿body {
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
 }
 
-.links-menu {
-    display: none;
-    position: absolute;
-    right: 0;
-    background: white;
-    padding: 8px;
-    border: 1px solid #ccc;
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
 }
 
-.links-dropdown:hover .links-menu {
-    display: block;
+a {
+  color: #8ec5ff;
 }
