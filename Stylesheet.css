@@ -1,0 +1,17 @@
+.links-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.links-menu {
+    display: none;
+    position: absolute;
+    right: 0;
+    background: white;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.links-dropdown:hover .links-menu {
+    display: block;
+}
